@@ -25,7 +25,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libplatformconfig",
+	name: "libplatformconfig_vendor",
 	owner: "xiaomi",
 	strip: {
 		none: true,
